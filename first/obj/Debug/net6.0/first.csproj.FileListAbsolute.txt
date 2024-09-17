@@ -26,3 +26,4 @@
 /mnt/hdd/Projects/c#/first/bin/Debug/net6.0/first.runtimeconfig.json
 /mnt/hdd/Projects/c#/first/obj/Debug/net6.0/first.genruntimeconfig.cache
 /mnt/hdd/Projects/c#/first/obj/Debug/net6.0/ref/first.dll
+/mnt/hdd/Projects/c#/first/obj/Debug/net6.0/first.sourcelink.json

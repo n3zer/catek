@@ -7,9 +7,6 @@ namespace first
         {
             NumGame game = new NumGame(5);
             game.StartGame();
-
-            game = new NumGame(100);
-            game.StartGame();
         }
     }
 }
