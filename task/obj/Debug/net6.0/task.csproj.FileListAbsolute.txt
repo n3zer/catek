@@ -1,0 +1,15 @@
+/mnt/hdd/Projects/c#/task/bin/Debug/net6.0/task
+/mnt/hdd/Projects/c#/task/bin/Debug/net6.0/task.deps.json
+/mnt/hdd/Projects/c#/task/bin/Debug/net6.0/task.runtimeconfig.json
+/mnt/hdd/Projects/c#/task/bin/Debug/net6.0/task.dll
+/mnt/hdd/Projects/c#/task/bin/Debug/net6.0/task.pdb
+/mnt/hdd/Projects/c#/task/obj/Debug/net6.0/task.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/hdd/Projects/c#/task/obj/Debug/net6.0/task.AssemblyInfoInputs.cache
+/mnt/hdd/Projects/c#/task/obj/Debug/net6.0/task.AssemblyInfo.cs
+/mnt/hdd/Projects/c#/task/obj/Debug/net6.0/task.csproj.CoreCompileInputs.cache
+/mnt/hdd/Projects/c#/task/obj/Debug/net6.0/task.sourcelink.json
+/mnt/hdd/Projects/c#/task/obj/Debug/net6.0/task.dll
+/mnt/hdd/Projects/c#/task/obj/Debug/net6.0/refint/task.dll
+/mnt/hdd/Projects/c#/task/obj/Debug/net6.0/task.pdb
+/mnt/hdd/Projects/c#/task/obj/Debug/net6.0/task.genruntimeconfig.cache
+/mnt/hdd/Projects/c#/task/obj/Debug/net6.0/ref/task.dll

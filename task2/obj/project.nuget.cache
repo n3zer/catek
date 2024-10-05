@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fiNiCReXzHxCLnb5yOiNU/MVQ7sGMT9M+VhyMgsgMs0qK0pJvWOkSxRU4FrswQvHCwP0aW4RSefzEBzMya4k/w==",
+  "success": true,
+  "projectFilePath": "/mnt/hdd/Projects/c#/task2/task2.csproj",
+  "expectedPackageFiles": [
+    "/home/n3z/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.33/microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512",
+    "/home/n3z/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.33/microsoft.netcore.app.host.linux-x64.6.0.33.nupkg.sha512"
+  ],
+  "logs": []
+}
